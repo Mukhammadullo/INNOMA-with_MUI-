@@ -1,0 +1,121 @@
+{
+    "header": {
+        "li1": "Who are we?",
+        "li2": "Services",
+        "li3": "Accelerator",
+        "li4": "News",
+        "btntxt": "To come in",
+        "txt1": "Run",
+        "txt2": "technological IT business",
+        "txt3": "on international markets",
+        "txt4": "Applications for the accelerator are now open",
+        "btn": "Apply now"
+    },
+    "section1": {
+        "txt1": "Our services",
+        "txt2": "Analytical research",
+        "txt3": "One of our key areas is the analysis of technological trends in international markets.",
+        "txt4": "We conduct analysis based on public research by McKinsey, BCG, PWC, Deloitte, Accenture, BCG, EY, Crunchbase, Dealroom, F6S, PitchBook, and also aggregate and analyze data from open international sources: patents, media, scientific publications",
+        "txt5": "Online accelerator for IT business",
+        "txt6": "The online IT business acceleration program will allow your team to open up new horizons and business opportunities in global markets. As a result of the program, you will have the opportunity to present your project to international investors and local partners",
+        "btn1": "Find out more"
+    },
+    "section3": {
+        "title": "Who are we for?",
+        "txt1": "IT projects at the idea stage",
+        "txt2": "For an already operating technology business, we will allow you to find new international markets and scale your business",
+        "txt3": "Innovative business",
+        "txt4": "For an already operating technology business, we will allow you to find new international markets and scale your business",
+        "txt5": "Corporations",
+        "txt6": "For an already operating technology business, we will allow you to find new international markets and scale your business"
+    },
+    "section4": {
+        "title": "Learn to explore foreign markets and open up new opportunities for your business",
+        "txt": "Our team will help you explore the markets of the Middle East, Asia, Latin America and Africa"
+    },
+    "section5": {
+        "title": "What markets do we work with?",
+        "txt1": "Near East",
+        "txt2": "Asia",
+        "txt3": "Latin America",
+        "txt4": "Africa",
+        "txt5": "Why is it interesting?",
+        "txt6": "MENA Market",
+        "txt7": "UAE, Saudi Arabia, Oman, Bahrain, Qatar,Tunisia, Yemen, Egypt, Algeria"
+    },
+    "section6": {
+        "txt1": "About the IT business accelerator",
+        "txt2": "The accelerator program is designed for 8 weeks of intensive online course with webinars, invited experts in international markets, analysis of your ideas and projects.",
+        "txt3": "Months of training",
+        "txt4": "Invited experts",
+        "txt5": "Personal manager"
+    },
+    "section7": {
+        "title": "Accelerator program"
+    },
+    "acordion": {
+        "module1": "Module 1",
+        "module2": "Module 2",
+        "module3": "Module 3",
+        "module4": "Module 4",
+        "module5": "Module 5",
+        "txt1": "Trends and tendencies of the modern world",
+        "txt2": "Topic 1. Where are IT trends heading? Gartner analytics, analysis of reports from consulting companies",
+        "txt3": "Topic 2. Markets of the Middle East, Asia, Latin America Topic",
+        "txt4": "9 videos, webinar with a guest expert",
+        "txt5": "Startup approach to creating an international IT product",
+        "txt6": "Business modeling and search Product Market Fit",
+        "txt7": "Market identification, search and research of target audience",
+        "txt8": "What is MVP and why is it important?",
+        "txt9": "Demo day"
+    },
+    "section8": {
+        "txt1": "Get on the radar of investors and partners",
+        "txt2": "As a result of completing the training, we will create profiles of your company on all international scouting platforms",
+        "txt3": "Sign up for the accelerator"
+    },
+    "section9": {
+        "txt1": "What will you get as a result?",
+        "txt2": "Product Documents",
+        "txt3": "Business plan, market analysis report, marketing plan, unit economics, list of hypotheses, MVP project",
+        "txt4": "Feedback from the market",
+        "txt5": "Conducting target audience research will allow you to form a Product market fit",
+        "txt6": "Product promotion",
+        "txt7": "Product promotion through partner analytical systems",
+        "txt8": "Subscribe to reports",
+        "txt9": "Subscription to analytical reports on international high-tech markets"
+    },
+    "section10": {
+        "txt1": "Price",
+        "txt2": "Analysis of international markets",
+        "txt3": "Packaging a startup for local markets",
+        "txt4": "Accelerator for your business",
+        "txt5": "What's included in the report?",
+        "txt6": "Competitor analysis",
+        "txt7": "Investor Analysis",
+        "txt8": "Market sizes (TAM,SAM,SOM)",
+        "txt9": "Media analysis",
+        "txt10": "Analysis of requests on the Internet",
+        "txt11": "Readiness",
+        "txt12": "Language",
+        "txt13": "Price"
+    },
+    "section11": {
+        "txt1": "Who are we?",
+        "txt2": "INNOMA.VC - International analytical agency for launching IT businesses in local markets in Asia, the Middle East, Latin America, Africa",
+        "txt3": "Our team consists of professionals in their field and our main goal is to help IT companies obtain the necessary knowledge and packages of documents to successfully launch their product in international markets."
+    },
+    "section12": {
+        "txt1": "Hi all! My name is Roman. Over the past 6 years, I have become part of the innovation ecosystem of the CIS, moving from a project manager to a product manager for automated search and support of startups. Over the 6 years of work, I have seen many mistakes and a lack of orientation of acceleration programs to the needs of startups. All accelerators were completed for the sake of accelerators and achieving KPIs.",
+        "txt2": "Roman Gain"
+    },
+    "section16":{
+        "txt1":"We are creating an international community of experts and partners",
+        "txt2":"If you or your business can be useful to IT teams when entering international markets, we invite you to become our partner"
+    },
+    "section18":{
+        "txt1":"Still have questions?",
+        "txt2":"Leave a request and our team will contact you",
+        "txt3":"Or write to us:"
+    }
+}
